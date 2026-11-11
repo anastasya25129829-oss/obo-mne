@@ -1,0 +1,8 @@
+Откуда картинки
+
+kniga.jpg — Pixabay, автор FreeFunArt, «Stacked open books, watercolor illustration»,
+  https://pixabay.com/illustrations/notebook-notepaper-books-parchment-8303973/
+  Pixabay Content License: бесплатно, можно без указания автора. Обрезано в квадрат.
+
+korova.jpg, loshad.jpg, sobaka.jpg, ovca.jpg, osel.jpg — нарисованы в Gemini по моим промтам
+  (копии из «Мой стиль/картинки», уменьшены до 800×800).
